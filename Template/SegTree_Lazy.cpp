@@ -1,3 +1,5 @@
+// original code from https://github.com/jh05013/PythonAlgorithms/blob/master/cpp05013/Seglazy.cpp
+
 #include<bits/stdc++.h>
 using namespace std;
 
